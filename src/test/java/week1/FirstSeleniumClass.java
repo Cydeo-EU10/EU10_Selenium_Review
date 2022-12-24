@@ -11,7 +11,7 @@ public class FirstSeleniumClass {
     public static void main(String[] args) {
 
         WebDriverManager.chromedriver().setup();
-//        WebDriverManager.edgedriver().setup();
+        WebDriverManager.edgedriver().setup();
 
         WebDriver driverChrome = new ChromeDriver();
 
