@@ -10,10 +10,10 @@ public class FirstSeleniumClass {
 
     public static void main(String[] args) {
 
-        WebDriverManager.chromedriver().setup();
+        WebDriverManager.chromedriver().setup(); //1. step
         WebDriverManager.edgedriver().setup();
 
-        WebDriver driverChrome = new ChromeDriver();
+        WebDriver driverChrome = new ChromeDriver(); // 2 .step
 
         driverChrome.get("https://practice.cydeo.com/");
 
