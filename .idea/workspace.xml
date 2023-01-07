@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f372f160-1126-4988-b01b-337bf740b222" name="Changes" comment="week 2 package is added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/week1/FirstSeleniumClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/week1/FirstSeleniumClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/week2/SeleniumMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/week2/SeleniumMethods.java" afterDir="false" />
-    </list>
+    <list default="true" id="f372f160-1126-4988-b01b-337bf740b222" name="Changes" comment="week 2 package is added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +81,7 @@
       <updated>1671913802923</updated>
       <workItem from="1671913804557" duration="2110000" />
       <workItem from="1673112995653" duration="854000" />
-      <workItem from="1673117256610" duration="2639000" />
+      <workItem from="1673117256610" duration="3010000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1671915741631</created>
@@ -108,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673113796040</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="week 2 package is added">
+      <created>1673120260520</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673120260520</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

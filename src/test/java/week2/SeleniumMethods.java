@@ -14,6 +14,8 @@ public class SeleniumMethods {
 
         WebDriver driver = new ChromeDriver();
 
+        driver.manage().window().maximize();
+
 //        driver.get("https://www.google.com");
 //        Thread.sleep(1000);
 //        driver.get("https://www.cydeo.com");
@@ -48,6 +50,8 @@ public class SeleniumMethods {
         }else {
             System.out.println("Second test is failed");
         }
+
+        driver.close();
 
 
 
