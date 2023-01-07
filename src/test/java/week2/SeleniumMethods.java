@@ -16,6 +16,8 @@ public class SeleniumMethods {
 
         driver.manage().window().maximize();
 
+        System.out.println(FindElementMethod.dynamicLoading.getText());
+
 //        driver.get("https://www.google.com");
 //        Thread.sleep(1000);
 //        driver.get("https://www.cydeo.com");
@@ -52,6 +54,8 @@ public class SeleniumMethods {
         }
 
         driver.close();
+
+//        driver.get("https://www.google.com");
 
 
 
