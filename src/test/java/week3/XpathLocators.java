@@ -24,9 +24,32 @@ public class XpathLocators {
         // frequently used syntax
         /*
             //tagName[contains(@attribute, 'value’)]
-//ta        tagName[.='text'] (same as //tagName[text()='text’], . represents text)
-//*[        //*[@attribute='value’] ( use * when we don't want use tag name)
+            //tagName[.='text'] (same as //tagName[text()='text’], . represents text)
+            //*[@attribute='value’] ( use * when we don't want use tag name)
+
+            //*[@*='*']
          */
+
+
+         /*
+         in xpath, we also can go from parent to child, use /
+         in xpath, we can go from CHILD to PARENT, use /..
+
+
+
+         in xpath, we also can use siblings method, to select by siblings
+
+         //option[.='Colorado']/preceding-sibling::option
+         //option[.='Colorado']/following-sibling::option
+
+         we can provide index number in [], starting from 1
+         //option[.='Colorado']/following-sibling::option[1]
+
+         (//option[.='Colorado']/following-sibling::option)[1]
+
+
+          */
+
     }
 
 

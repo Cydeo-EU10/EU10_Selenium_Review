@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f372f160-1126-4988-b01b-337bf740b222" name="Changes" comment="Css locator">
-      <change afterPath="$PROJECT_DIR$/src/test/java/week3/XpathLocators.java" afterDir="false" />
+    <list default="true" id="f372f160-1126-4988-b01b-337bf740b222" name="Changes" comment="xpath locators">
+      <change afterPath="$PROJECT_DIR$/src/test/java/week3/Methods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/week3/CssLocators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/week3/CssLocators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/week3/XpathLocators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/week3/XpathLocators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindElementMethod">
+  <component name="RunManager" selected="Application.Methods">
     <configuration name="FindElementMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week2.FindElementMethod" />
       <module name="EU10_Selenium_Review" />
@@ -68,6 +68,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week3.Methods" />
+      <module name="EU10_Selenium_Review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SeleniumMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week2.SeleniumMethods" />
       <module name="EU10_Selenium_Review" />
@@ -83,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Methods" />
         <item itemvalue="Application.FindElementMethod" />
         <item itemvalue="Application.SeleniumMethods" />
         <item itemvalue="Application.FirstSeleniumClass" />
@@ -101,7 +115,7 @@
       <workItem from="1673112995653" duration="854000" />
       <workItem from="1673117256610" duration="7242000" />
       <workItem from="1673211221379" duration="605000" />
-      <workItem from="1673708453069" duration="5522000" />
+      <workItem from="1673708453069" duration="9000000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1671915741631</created>
@@ -159,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673711262251</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="xpath locators">
+      <created>1673714820500</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673714820500</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +201,7 @@
     <MESSAGE value="test" />
     <MESSAGE value="week 2 package is added" />
     <MESSAGE value="Css locator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Css locator" />
+    <MESSAGE value="xpath locators" />
+    <option name="LAST_COMMIT_MESSAGE" value="xpath locators" />
   </component>
 </project>
