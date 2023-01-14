@@ -27,5 +27,11 @@ public class CssLocators {
         // div.example>form
         // in the css, we can go from parent to child, but we CAN NOT go from child to parent.
 
+
+        // using index number in Css locator
+        // if we have more than one same type of elements, we can use indexing
+        // css locator:nth-of-type(index number)  --> index number is starting from 1
+        // select#state>option:nth-of-type(4)
+
     }
 }

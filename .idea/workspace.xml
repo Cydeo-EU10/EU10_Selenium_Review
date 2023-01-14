@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f372f160-1126-4988-b01b-337bf740b222" name="Changes" comment="week 2 package is added">
-      <change afterPath="$PROJECT_DIR$/src/test/java/week3/CssLocators.java" afterDir="false" />
+    <list default="true" id="f372f160-1126-4988-b01b-337bf740b222" name="Changes" comment="Css locator">
+      <change afterPath="$PROJECT_DIR$/src/test/java/week3/XpathLocators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/week3/CssLocators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/week3/CssLocators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +101,7 @@
       <workItem from="1673112995653" duration="854000" />
       <workItem from="1673117256610" duration="7242000" />
       <workItem from="1673211221379" duration="605000" />
-      <workItem from="1673708453069" duration="2731000" />
+      <workItem from="1673708453069" duration="5522000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1671915741631</created>
@@ -151,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673124484884</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Css locator">
+      <created>1673711262251</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1673711262251</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +179,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="week 2 package is added" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 2 package is added" />
+    <MESSAGE value="Css locator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Css locator" />
   </component>
 </project>
