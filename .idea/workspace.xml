@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f372f160-1126-4988-b01b-337bf740b222" name="Changes" comment="week 4  first push">
-      <change afterPath="$PROJECT_DIR$/src/test/java/week4/FindElementsMethod.java" afterDir="false" />
+    <list default="true" id="f372f160-1126-4988-b01b-337bf740b222" name="Changes" comment="week 4  second push">
+      <change afterPath="$PROJECT_DIR$/src/test/java/week4/ImplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/week4/RadioButtons.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/week4/ReviewCssAndXpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/week4/ReviewCssAndXpath.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindElementsMethod">
+  <component name="RunManager" selected="Application.RadioButtons">
     <configuration name="FindElementMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week2.FindElementMethod" />
       <module name="EU10_Selenium_Review" />
@@ -68,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstSeleniumClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.FirstSeleniumClass" />
+    <configuration name="ImplicitWait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week4.ImplicitWait" />
       <module name="EU10_Selenium_Review" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week1.*" />
+          <option name="PATTERN" value="week4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeleniumMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week2.SeleniumMethods" />
+    <configuration name="RadioButtons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week4.RadioButtons" />
       <module name="EU10_Selenium_Review" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week2.*" />
+          <option name="PATTERN" value="week4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RadioButtons" />
+        <item itemvalue="Application.ImplicitWait" />
         <item itemvalue="Application.FindElementsMethod" />
         <item itemvalue="Application.Methods" />
         <item itemvalue="Application.FindElementMethod" />
-        <item itemvalue="Application.SeleniumMethods" />
-        <item itemvalue="Application.FirstSeleniumClass" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +131,7 @@
       <workItem from="1673211221379" duration="605000" />
       <workItem from="1673708453069" duration="9489000" />
       <workItem from="1673764531216" duration="49000" />
-      <workItem from="1674310251863" duration="5213000" />
+      <workItem from="1674310251863" duration="7133000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1671915741631</created>
@@ -217,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674314958863</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="week 4  second push">
+      <created>1674317807167</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674317807167</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,6 +248,7 @@
     <MESSAGE value="xpath locators" />
     <MESSAGE value="week 4 is added" />
     <MESSAGE value="week 4  first push" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 4  first push" />
+    <MESSAGE value="week 4  second push" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 4  second push" />
   </component>
 </project>
