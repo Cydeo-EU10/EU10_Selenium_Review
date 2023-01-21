@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f372f160-1126-4988-b01b-337bf740b222" name="Changes" comment="xpath locators">
+    <list default="true" id="f372f160-1126-4988-b01b-337bf740b222" name="Changes" comment="week 4 is added">
+      <change afterPath="$PROJECT_DIR$/src/test/java/week4/ReviewCssAndXpath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +116,7 @@
       <workItem from="1673211221379" duration="605000" />
       <workItem from="1673708453069" duration="9489000" />
       <workItem from="1673764531216" duration="49000" />
-      <workItem from="1674310251863" duration="470000" />
+      <workItem from="1674310251863" duration="3069000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1671915741631</created>
@@ -187,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673718598473</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="week 4 is added">
+      <created>1674310775579</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674310775579</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +217,7 @@
     <MESSAGE value="week 2 package is added" />
     <MESSAGE value="Css locator" />
     <MESSAGE value="xpath locators" />
-    <option name="LAST_COMMIT_MESSAGE" value="xpath locators" />
+    <MESSAGE value="week 4 is added" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 4 is added" />
   </component>
 </project>
