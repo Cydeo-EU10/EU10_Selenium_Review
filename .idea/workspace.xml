@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f372f160-1126-4988-b01b-337bf740b222" name="Changes" comment="week 4 third push">
-      <change afterPath="$PROJECT_DIR$/src/test/java/week4/CheckBoxes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/week4/RadioBtnPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/week4/StaleElementRefrenceException.java" afterDir="false" />
+    <list default="true" id="f372f160-1126-4988-b01b-337bf740b222" name="Changes" comment="week 4 forth push">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/week4/RadioBtnPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/week4/RadioBtnPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/week4/StaleElementRefrenceException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/week4/StaleElementRefrenceException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StaleElementRefrenceException">
+  <component name="RunManager" selected="Application.RadioBtnPractice">
     <configuration name="CheckBoxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week4.CheckBoxes" />
       <module name="EU10_Selenium_Review" />
@@ -110,9 +109,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RadioBtnPractice" />
         <item itemvalue="Application.StaleElementRefrenceException" />
         <item itemvalue="Application.CheckBoxes" />
-        <item itemvalue="Application.RadioBtnPractice" />
         <item itemvalue="Application.RadioButtons" />
         <item itemvalue="Application.ImplicitWait" />
       </list>
@@ -132,7 +131,7 @@
       <workItem from="1673211221379" duration="605000" />
       <workItem from="1673708453069" duration="9489000" />
       <workItem from="1673764531216" duration="49000" />
-      <workItem from="1674310251863" duration="10025000" />
+      <workItem from="1674310251863" duration="14002000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1671915741631</created>
@@ -232,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674320557442</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="week 4 forth push">
+      <created>1674322850521</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1674322850521</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,6 +264,7 @@
     <MESSAGE value="week 4  first push" />
     <MESSAGE value="week 4  second push" />
     <MESSAGE value="week 4 third push" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 4 third push" />
+    <MESSAGE value="week 4 forth push" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 4 forth push" />
   </component>
 </project>
