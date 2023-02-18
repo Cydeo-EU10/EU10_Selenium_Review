@@ -4,6 +4,7 @@ import io.github.bonigarcia.wdm.*;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.*;
 import org.openqa.selenium.support.ui.*;
+import org.testng.*;
 import org.testng.annotations.*;
 import utilities.*;
 
@@ -39,7 +40,7 @@ public class DropdownTest {
 
         }
 
-        // selectting by index
+        // selecting by index
         select.selectByIndex(2);
         select.selectByIndex(0);
         Thread.sleep(1000);
@@ -63,8 +64,15 @@ public class DropdownTest {
 
     }
 
-    public void test2(){
+    @Test
+    public void test2() {
+        driver.get("https://getbootstrap.com/docs/5.0/forms/select/");
+        WebElement dropdown = driver.findElement(By.xpath("//select[@class='form-select']"));
+        Select select = new Select(dropdown);
 
+        select.selectByIndex(3);
+        Assert.assertEquals(select.getFirstSelectedOption().getText(),"Three","Validating Dropdown 4th option");
+        Assert.assertFalse(select.isMultiple());
     }
 
 
