@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f372f160-1126-4988-b01b-337bf740b222" name="Changes" comment="week 5 third push">
-      <change afterPath="$PROJECT_DIR$/src/test/java/week5/TestBase.java" afterDir="false" />
+    <list default="true" id="f372f160-1126-4988-b01b-337bf740b222" name="Changes" comment="week 5 forth push">
+      <change afterPath="$PROJECT_DIR$/src/test/java/week5/PropertiesReview.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/week5/DropdownTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/week5/DropdownTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Zulpikar/IdeaProjects/EU10_Selenium_Review/src/test/java",
+    "last_opened_file_path": "C:/Users/Zulpikar/IdeaProjects/EU10_Selenium_Review",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,10 +48,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Zulpikar\IdeaProjects\EU10_Selenium_Review" />
       <recent name="C:\Users\Zulpikar\IdeaProjects\EU10_Selenium_Review\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.DropdownTest.test2">
+  <component name="RunManager" selected="TestNG.PropertiesReview.test1">
     <configuration name="DropdownTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="EU10_Selenium_Review" />
       <extension name="coverage">
@@ -106,7 +106,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNgPractice" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PropertiesReview.test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="EU10_Selenium_Review" />
       <extension name="coverage">
         <pattern>
@@ -115,8 +115,9 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="week5" />
-      <option name="MAIN_CLASS_NAME" value="week5.TestNgPractice" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="MAIN_CLASS_NAME" value="week5.PropertiesReview" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -143,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.PropertiesReview.test1" />
         <item itemvalue="TestNG.DropdownTest.test2" />
         <item itemvalue="TestNG.DropdownTest" />
         <item itemvalue="TestNG.DropdownTest.test1" />
         <item itemvalue="TestNG.TestNgPractice.assertion" />
-        <item itemvalue="TestNG.TestNgPractice" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +171,7 @@
       <workItem from="1676496562085" duration="846000" />
       <workItem from="1676582092913" duration="1185000" />
       <workItem from="1676662838117" duration="23000" />
-      <workItem from="1676731480545" duration="11096000" />
+      <workItem from="1676731480545" duration="12352000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1671915741631</created>
@@ -305,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676742675053</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="week 5 forth push">
+      <created>1676748051774</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1676748051774</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -336,6 +344,7 @@
     <MESSAGE value="week 5 first push" />
     <MESSAGE value="week 5 second push" />
     <MESSAGE value="week 5 third push" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 5 third push" />
+    <MESSAGE value="week 5 forth push" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 5 forth push" />
   </component>
 </project>
