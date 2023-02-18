@@ -3,6 +3,7 @@ package week3;
 import io.github.bonigarcia.wdm.*;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.*;
+import org.openqa.selenium.interactions.*;
 
 public class XpathLocators {
 
@@ -10,6 +11,8 @@ public class XpathLocators {
         WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
+
+
 
 
 

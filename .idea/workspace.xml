@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f372f160-1126-4988-b01b-337bf740b222" name="Changes" comment="week 4 forth push">
+    <list default="true" id="f372f160-1126-4988-b01b-337bf740b222" name="Changes" comment="week 4 fifth push">
+      <change afterPath="$PROJECT_DIR$/src/test/java/week5/TestNgPractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/week4/RadioBtnPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/week4/RadioBtnPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/week3/CssLocators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/week3/CssLocators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/week3/XpathLocators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/week3/XpathLocators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/week4/StaleElementRefrenceException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/week4/StaleElementRefrenceException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,36 +41,15 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RadioBtnPractice">
-    <configuration name="CheckBoxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week4.CheckBoxes" />
-      <module name="EU10_Selenium_Review" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ImplicitWait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week4.ImplicitWait" />
-      <module name="EU10_Selenium_Review" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.TestNgPractice.assertion">
     <configuration name="RadioBtnPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week4.RadioBtnPractice" />
       <module name="EU10_Selenium_Review" />
@@ -81,39 +63,84 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadioButtons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week4.RadioButtons" />
+    <configuration name="TestNgPractice" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="EU10_Selenium_Review" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week4.*" />
+          <option name="PATTERN" value="week5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="week5" />
+      <option name="MAIN_CLASS_NAME" value="week5.TestNgPractice" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaleElementRefrenceException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week4.StaleElementRefrenceException" />
+    <configuration name="TestNgPractice.assertion" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="EU10_Selenium_Review" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week4.*" />
+          <option name="PATTERN" value="week5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="week5" />
+      <option name="MAIN_CLASS_NAME" value="week5.TestNgPractice" />
+      <option name="METHOD_NAME" value="assertion" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNgPractice.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EU10_Selenium_Review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week5" />
+      <option name="MAIN_CLASS_NAME" value="week5.TestNgPractice" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNgPractice.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EU10_Selenium_Review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week5" />
+      <option name="MAIN_CLASS_NAME" value="week5.TestNgPractice" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestNgPractice.assertion" />
+        <item itemvalue="TestNG.TestNgPractice" />
+        <item itemvalue="TestNG.TestNgPractice.test2" />
+        <item itemvalue="TestNG.TestNgPractice.test1" />
         <item itemvalue="Application.RadioBtnPractice" />
-        <item itemvalue="Application.StaleElementRefrenceException" />
-        <item itemvalue="Application.CheckBoxes" />
-        <item itemvalue="Application.RadioButtons" />
-        <item itemvalue="Application.ImplicitWait" />
       </list>
     </recent_temporary>
   </component>
@@ -132,6 +159,11 @@
       <workItem from="1673708453069" duration="9489000" />
       <workItem from="1673764531216" duration="49000" />
       <workItem from="1674310251863" duration="14002000" />
+      <workItem from="1674587789831" duration="15000" />
+      <workItem from="1676496562085" duration="846000" />
+      <workItem from="1676582092913" duration="1185000" />
+      <workItem from="1676662838117" duration="23000" />
+      <workItem from="1676731480545" duration="7892000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1671915741631</created>
@@ -238,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674322850521</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="week 4 fifth push">
+      <created>1674587796502</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1674587796502</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,6 +304,7 @@
     <MESSAGE value="week 4  second push" />
     <MESSAGE value="week 4 third push" />
     <MESSAGE value="week 4 forth push" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 4 forth push" />
+    <MESSAGE value="week 4 fifth push" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 4 fifth push" />
   </component>
 </project>

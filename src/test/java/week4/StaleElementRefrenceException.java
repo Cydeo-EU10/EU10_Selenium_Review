@@ -19,6 +19,9 @@ public class StaleElementRefrenceException {
 
         driver.navigate().refresh();
 
+        System.out.println(gmail.getText());
+
+
         WebElement home = driver.findElement(By.xpath("//a[.='Home']"));
 
         System.out.println(home.getText());

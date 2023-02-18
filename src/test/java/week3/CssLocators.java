@@ -13,7 +13,7 @@ public class CssLocators {
         driver.manage().window().maximize();
 
         // syntax of css
-        // 1.tagName[attributeName='Value']
+        // 1.  tagName[attributeName='Value']
 
         driver.get("https://practice.cydeo.com/inputs");
         WebElement flash = driver.findElement(By.cssSelector("div[class='large-12 columns']"));
