@@ -27,7 +27,7 @@ public class DropdownTest {
 
 
     @Test
-    public void test1() {
+    public void test1() throws InterruptedException {
         driver.get("https://getbootstrap.com/docs/5.0/forms/select/");
         WebElement dropdown = driver.findElement(By.xpath("//select[@class='form-select']"));
         Select select = new Select(dropdown);
@@ -39,6 +39,26 @@ public class DropdownTest {
 
         }
 
+        // selectting by index
+        select.selectByIndex(2);
+        select.selectByIndex(0);
+        Thread.sleep(1000);
+
+        // select by visibleText
+        select.selectByVisibleText("One");
+        Thread.sleep(1000);
+        select.selectByVisibleText("Two");
+        Thread.sleep(1000);
+
+
+        // selecting by value
+        select.selectByValue("3");
+        Thread.sleep(1000);
+
+        select.selectByValue("1");
+        Thread.sleep(1000);
+
+        System.out.println(select.getFirstSelectedOption().getText());
 
 
     }

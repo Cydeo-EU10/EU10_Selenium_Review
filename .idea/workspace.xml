@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f372f160-1126-4988-b01b-337bf740b222" name="Changes" comment="week 5 first push">
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/BrowserUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/CRM_Utilities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ConfigurationReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/WebDriverFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/WebTableUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="f372f160-1126-4988-b01b-337bf740b222" name="Changes" comment="week 5 second push">
       <change beforePath="$PROJECT_DIR$/src/test/java/week5/DropdownTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/week5/DropdownTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -177,7 +169,7 @@
       <workItem from="1676496562085" duration="846000" />
       <workItem from="1676582092913" duration="1185000" />
       <workItem from="1676662838117" duration="23000" />
-      <workItem from="1676731480545" duration="9300000" />
+      <workItem from="1676731480545" duration="9622000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1671915741631</created>
@@ -298,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676741034603</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="week 5 second push">
+      <created>1676742299347</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1676742299347</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,6 +326,7 @@
     <MESSAGE value="week 4 forth push" />
     <MESSAGE value="week 4 fifth push" />
     <MESSAGE value="week 5 first push" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 5 first push" />
+    <MESSAGE value="week 5 second push" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 5 second push" />
   </component>
 </project>
