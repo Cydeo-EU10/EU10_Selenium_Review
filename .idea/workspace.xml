@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f372f160-1126-4988-b01b-337bf740b222" name="Changes" comment="week 5 seventh push">
-      <change afterPath="$PROJECT_DIR$/src/test/java/week6/TableTest.java" afterDir="false" />
+    <list default="true" id="f372f160-1126-4988-b01b-337bf740b222" name="Changes" comment="week 6 first push">
+      <change afterPath="$PROJECT_DIR$/src/test/java/week6/JavaFaker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,25 +52,7 @@
       <recent name="C:\Users\Zulpikar\IdeaProjects\EU10_Selenium_Review\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TableTest.test2">
-    <configuration name="IFrameReview.test2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="EU10_Selenium_Review" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="week5" />
-      <option name="MAIN_CLASS_NAME" value="week5.IFrameReview" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.JavaFaker.test1">
     <configuration name="IFrameReview.test3" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="EU10_Selenium_Review" />
       <extension name="coverage">
@@ -82,6 +64,24 @@
       <option name="PACKAGE_NAME" value="week5" />
       <option name="MAIN_CLASS_NAME" value="week5.IFrameReview" />
       <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaFaker.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EU10_Selenium_Review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week6" />
+      <option name="MAIN_CLASS_NAME" value="week6.JavaFaker" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -145,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.JavaFaker.test1" />
         <item itemvalue="TestNG.TableTest.test2" />
         <item itemvalue="TestNG.TableTest.test1" />
         <item itemvalue="TestNG.WindowsReview.test1" />
         <item itemvalue="TestNG.IFrameReview.test3" />
-        <item itemvalue="TestNG.IFrameReview.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +174,7 @@
       <workItem from="1676662838117" duration="23000" />
       <workItem from="1676731480545" duration="16351000" />
       <workItem from="1676962754902" duration="15000" />
-      <workItem from="1677337112844" duration="1670000" />
+      <workItem from="1677337112844" duration="2710000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1671915741631</created>
@@ -337,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676753115556</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="week 6 first push">
+      <created>1677338824188</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1677338824188</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -372,6 +379,7 @@
     <MESSAGE value="week 5 fifth push" />
     <MESSAGE value="week 5 sixth push" />
     <MESSAGE value="week 5 seventh push" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 5 seventh push" />
+    <MESSAGE value="week 6 first push" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 6 first push" />
   </component>
 </project>
