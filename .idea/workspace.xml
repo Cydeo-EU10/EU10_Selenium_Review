@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f372f160-1126-4988-b01b-337bf740b222" name="Changes" comment="week 5 sixth push">
-      <change afterPath="$PROJECT_DIR$/src/test/java/week5/IFrameReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/week5/WindowsReview.java" afterDir="false" />
+    <list default="true" id="f372f160-1126-4988-b01b-337bf740b222" name="Changes" comment="week 5 seventh push">
+      <change afterPath="$PROJECT_DIR$/src/test/java/week6/TableTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/week5/AlertReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/week5/AlertReview.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,63 +32,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Zulpikar/IdeaProjects/EU10_Selenium_Review",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Zulpikar/IdeaProjects/EU10_Selenium_Review&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Zulpikar\IdeaProjects\EU10_Selenium_Review" />
       <recent name="C:\Users\Zulpikar\IdeaProjects\EU10_Selenium_Review\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.WindowsReview.test1">
-    <configuration name="AlertReview.test2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="EU10_Selenium_Review" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="week5" />
-      <option name="MAIN_CLASS_NAME" value="week5.AlertReview" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AlertReview.test3" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="EU10_Selenium_Review" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="week5" />
-      <option name="MAIN_CLASS_NAME" value="week5.AlertReview" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.TableTest.test2">
     <configuration name="IFrameReview.test2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="EU10_Selenium_Review" />
       <extension name="coverage">
@@ -127,6 +89,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TableTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EU10_Selenium_Review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week6" />
+      <option name="MAIN_CLASS_NAME" value="week6.TableTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TableTest.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EU10_Selenium_Review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week6" />
+      <option name="MAIN_CLASS_NAME" value="week6.TableTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WindowsReview.test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="EU10_Selenium_Review" />
       <extension name="coverage">
@@ -147,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TableTest.test2" />
+        <item itemvalue="TestNG.TableTest.test1" />
         <item itemvalue="TestNG.WindowsReview.test1" />
         <item itemvalue="TestNG.IFrameReview.test3" />
         <item itemvalue="TestNG.IFrameReview.test2" />
-        <item itemvalue="TestNG.AlertReview.test3" />
-        <item itemvalue="TestNG.AlertReview.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +172,9 @@
       <workItem from="1676496562085" duration="846000" />
       <workItem from="1676582092913" duration="1185000" />
       <workItem from="1676662838117" duration="23000" />
-      <workItem from="1676731480545" duration="16088000" />
+      <workItem from="1676731480545" duration="16351000" />
+      <workItem from="1676962754902" duration="15000" />
+      <workItem from="1677337112844" duration="1670000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1671915741631</created>
@@ -330,7 +330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676749787508</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="week 5 seventh push">
+      <created>1676753115556</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1676753115556</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -364,6 +371,7 @@
     <MESSAGE value="week 5 forth push" />
     <MESSAGE value="week 5 fifth push" />
     <MESSAGE value="week 5 sixth push" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 5 sixth push" />
+    <MESSAGE value="week 5 seventh push" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 5 seventh push" />
   </component>
 </project>
