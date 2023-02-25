@@ -8,6 +8,8 @@ import week5.*;
 
 public class ActionsTest extends TestBase {
 
+
+    // hover
     @Test
     public void test1(){
         driver.get("https://chercher.tech/practice/practice-pop-ups-selenium-webdriver");
@@ -18,6 +20,7 @@ public class ActionsTest extends TestBase {
         Assert.assertEquals(driver.getTitle(),"Google");
     }
 
+    // double click
     @Test
     public void test2() throws InterruptedException {
         driver.get("https://chercher.tech/practice/practice-pop-ups-selenium-webdriver");
@@ -30,14 +33,29 @@ public class ActionsTest extends TestBase {
         alert.accept();
     }
 
+
+    // double click in chain
     @Test
     public void test3() throws InterruptedException {
         driver.get("https://chercher.tech/practice/practice-pop-ups-selenium-webdriver");
         WebElement doubleClick = driver.findElement(By.id("double-click"));
         Actions actions = new Actions(driver);
-        actions.moveToElement(doubleClick).perform();
-        actions.doubleClick().perform();
+        actions.moveToElement(doubleClick).doubleClick().perform();
+//        actions.doubleClick().perform();
         Thread.sleep(3000);
+    }
+
+
+    // drag and drop
+    @Test
+    public void test4() throws InterruptedException {
+        driver.get("https://demos.telerik.com/kendo-ui/dragdrop/index");
+        WebElement target = driver.findElement(By.id("droptarget"));
+        WebElement source = driver.findElement(By.id("draggable"));
+        Actions actions = new Actions(driver);
+        actions.dragAndDrop(source, target).perform();
+        Thread.sleep(3000);
+
     }
 
 

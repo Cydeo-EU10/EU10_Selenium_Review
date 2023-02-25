@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f372f160-1126-4988-b01b-337bf740b222" name="Changes" comment="week 6 third push">
-      <change afterPath="$PROJECT_DIR$/src/test/java/week6/ActionsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f372f160-1126-4988-b01b-337bf740b222" name="Changes" comment="week 6 fourth push">
+      <change beforePath="$PROJECT_DIR$/src/test/java/week6/ActionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/week6/ActionsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +107,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaFaker.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ActionsTest.test4" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="EU10_Selenium_Review" />
       <extension name="coverage">
         <pattern>
@@ -117,8 +116,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="week6" />
-      <option name="MAIN_CLASS_NAME" value="week6.JavaFaker" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="week6.ActionsTest" />
+      <option name="METHOD_NAME" value="test4" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -147,10 +146,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.ActionsTest.test3" />
+        <item itemvalue="TestNG.ActionsTest.test4" />
         <item itemvalue="TestNG.ActionsTest.test2" />
         <item itemvalue="TestNG.ActionsTest.test1" />
         <item itemvalue="TestNG.UploadTest.test1" />
-        <item itemvalue="TestNG.JavaFaker.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +174,7 @@
       <workItem from="1676662838117" duration="23000" />
       <workItem from="1676731480545" duration="16351000" />
       <workItem from="1676962754902" duration="15000" />
-      <workItem from="1677337112844" duration="5443000" />
+      <workItem from="1677337112844" duration="5766000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1671915741631</created>
@@ -359,7 +358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677341600420</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="week 6 fourth push">
+      <created>1677342855855</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1677342855855</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -397,6 +403,7 @@
     <MESSAGE value="week 6 first push" />
     <MESSAGE value="week 6 second push" />
     <MESSAGE value="week 6 third push" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 6 third push" />
+    <MESSAGE value="week 6 fourth push" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 6 fourth push" />
   </component>
 </project>
