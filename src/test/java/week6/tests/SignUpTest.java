@@ -25,9 +25,15 @@ public class SignUpTest {
 
         driver.get("http://practice.cybertekschool.com/sign_up");
 
-        signUpPage.nameInput.sendKeys("John");
-        signUpPage.emailInput.sendKeys("abc@abc.com");
-        signUpPage.btn.click();
+
+        // first way to use singup page
+//        signUpPage.nameInput.sendKeys("John");
+//        signUpPage.emailInput.sendKeys("abc@abc.com");
+//        signUpPage.btn.click();
+
+        // second way to use signup page
+        signUpPage.login("John","abc@abc.com");
+
 
         String actualText = confirmationPage.text.getText();
         String expectedText = "Thank you for signing up. Click the button below to return to the home page.";

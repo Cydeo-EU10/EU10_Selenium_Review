@@ -22,6 +22,12 @@ public class SignUpPage {
     @FindBy(xpath="//button[@name=\"wooden_spoon\"]")
     public WebElement btn;
 
+    public void login(String username, String email){
+        emailInput.sendKeys(email);
+        nameInput.sendKeys(username);
+        btn.click();
+    }
+
 
 
 
