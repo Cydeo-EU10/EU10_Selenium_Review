@@ -3,6 +3,7 @@ package week6.tests;
 import io.github.bonigarcia.wdm.*;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.*;
+import org.testng.*;
 import org.testng.annotations.*;
 import utilities.*;
 import week6.pages.*;
@@ -12,6 +13,7 @@ import java.util.concurrent.*;
 public class SignUpTest {
 
     SignUpPage signUpPage = new SignUpPage();
+    ConfirmationPage confirmationPage = new ConfirmationPage();
 
 
     @Test
@@ -26,6 +28,12 @@ public class SignUpTest {
         signUpPage.nameInput.sendKeys("John");
         signUpPage.emailInput.sendKeys("abc@abc.com");
         signUpPage.btn.click();
+
+        String actualText = confirmationPage.text.getText();
+        String expectedText = "Thank you for signing up. Click the button below to return to the home page.";
+        Assert.assertEquals(actualText,expectedText);
+
+        driver.close();
 
 
 
